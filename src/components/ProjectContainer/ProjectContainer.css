@@ -31,3 +31,9 @@
 .project .link--icon {
   margin-left: 0.5em;
 }
+
+
+.project-image{
+  height: 22em;
+  width: 100%;
+}

@@ -1,10 +1,13 @@
 import uniqid from 'uniqid'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LaunchIcon from '@material-ui/icons/Launch'
+import titan from '../../Images/titan.png'
 import './ProjectContainer.css'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
+
+    <img className="project-image" src={titan} alt=''/>
     <h3>{project.name}</h3>
 
     <p className='project__description'>{project.description}</p>

@@ -10,3 +10,18 @@
 .skills__list-item {
   margin: 0.5em;
 }
+
+
+.skill{
+  img{
+    height: 3em;
+    width: 3em;
+  }
+}
+
+.skills-container{
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+  align-items: center;
+}

@@ -6,10 +6,10 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
+  name: 'Gahan Gandi',
   role: 'Front End Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    "Versatile software engineer with a Master’s in Computer Science from the University of Missouri. Proficient in programming languages including C,C++, Python, Java, JavaScript, and TypeScript, with extensive experience in web technologies such as React, Angular, HTML, CSS, Node.js, and Express.Skilled in developing full-stack applications, data analytics, machine learning, and computer vision solutions, and experienced in using tools and platforms like AWS, Docker, and Git. ",
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
@@ -21,10 +21,10 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'TITAN',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['React', 'TypeScript', 'HTML', 'CSS', 'Git', 'Docker','firebase','Python'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
